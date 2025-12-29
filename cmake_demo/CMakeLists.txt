@@ -5,6 +5,6 @@ cmake_minimum_required(VERSION 3.10)
 project(HelloCMake CXX)
 
 # 3. 生成可执行文件 hello_cmake，源文件是 main.cpp
-add_executable(test2 test2.cpp)
+add_executable(test2 test2.cpp math.cpp math.h)
 
-add_executable(math.cpp math.h)
+# add_executable(test2 math.cpp math.h)
