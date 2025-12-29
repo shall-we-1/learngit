@@ -11,6 +11,10 @@ int main(){
 
     }
     cout<<"Hello,c++"<<endl;
+<<<<<<< HEAD
     cout<<"在master分支添加了一行代码，故意找茬引起冲突"<<endl;
+=======
+    cout<<"add a new way on usebranch";
+>>>>>>> usebranch
     return 0;
 }
