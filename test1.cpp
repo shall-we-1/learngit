@@ -11,5 +11,6 @@ int main(){
 
     }
     cout<<"Hello,c++"<<endl;
+    cout<<"在master分支添加了一行代码，故意找茬引起冲突"<<endl;
     return 0;
 }
