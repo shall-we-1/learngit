@@ -1,5 +1,6 @@
 #include<iostream>
 #include<vector>
+#include"math.h"
 using namespace std;    
 int main(){
     vector <char> a={'H','e','l','l','o'};
@@ -12,5 +13,6 @@ int main(){
     }
     cout<<"Hello,c++"<<endl;
     cout<<"learning cmake"<<endl;
+    cout<<add(1,2);
     return 0;
 }
