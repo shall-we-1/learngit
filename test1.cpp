@@ -10,5 +10,6 @@ int main(){
         cout<<*ptr<<' ';
 
     }
+    cout<<"Hello,c++"<<endl;
     return 0;
 }
